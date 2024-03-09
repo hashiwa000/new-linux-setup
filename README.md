@@ -1,0 +1,2 @@
+# NewLinuxSetup
+新しいLinuxマシンのセットアップメモ
