@@ -17,4 +17,18 @@
     ```
 - .vimrc
     ```
+    syntax enable
+    colorscheme desert
+    set number
+    set wrap
+    set autoindent
+    set expandtab
+    set tabstop=4
+    set hlsearch
     ```
+
+## ソフトウェア
+
+- Firefox
+    - 拡張機能
+        - [Vimium](https://addons.mozilla.org/ja/firefox/addon/vimium-ff/)
