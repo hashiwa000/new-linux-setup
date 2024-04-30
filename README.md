@@ -32,3 +32,6 @@
 - Firefox
     - 拡張機能
         - [Vimium](https://addons.mozilla.org/ja/firefox/addon/vimium-ff/)
+- Docker
+    - [aptを使った方法](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
+
