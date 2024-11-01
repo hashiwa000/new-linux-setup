@@ -32,6 +32,9 @@
 - Firefox
     - 拡張機能
         - [Vimium](https://addons.mozilla.org/ja/firefox/addon/vimium-ff/)
+            - `h`, `j`, `k`, `l`: 上下右左の移動
+            - `J`: 左のタブに移動（だけどうまく動かないときあり）
+            - `K`: 左のタブに移動（だけどうまく動かないときあり）
 - Docker
     - [aptを使った方法](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 
