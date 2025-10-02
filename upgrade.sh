@@ -17,3 +17,7 @@ sudo apt autoremove -y
 echo
 echo "##### uv self update"
 uv self update
+
+echo
+echo "##### npm update"
+npm update
