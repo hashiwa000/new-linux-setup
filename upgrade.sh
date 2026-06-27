@@ -35,3 +35,10 @@ command -v rustup > /dev/null && {
   echo "##### rustup update"
   rustup update
 }
+
+command -v codex > /dev/null && {
+  echo
+  echo "##### codex update"
+  sudo npm install -g @openai/codex@latest
+}
+
