@@ -6,3 +6,4 @@ set autoindent
 set expandtab
 set tabstop=4
 set hlsearch
+inoremap jj <Esc>
